@@ -1,8 +1,8 @@
 TOKEN VERSI ALPHAT
 
 
-UA = Line/8.0.1
-LA = DESKTOPMAC	7.18.1	HELLO-WORLD	11.2.5"
+- UA = Line/8.0.1
+- LA = DESKTOPMAC	7.18.1	HELLO-WORLD	11.2.5"
 
 
 - pkg install nodejs
